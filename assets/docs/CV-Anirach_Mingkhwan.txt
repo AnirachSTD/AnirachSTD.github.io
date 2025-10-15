@@ -1,0 +1,28 @@
+Curriculum Vitae — Dr. Anirach Mingkhwan
+
+This is a placeholder for the full CV. Replace this file with a PDF named CV-Anirach_Mingkhwan.pdf (or update the link in index.html) to provide a downloadable resume.
+
+Suggested filename: CV-Anirach_Mingkhwan.pdf
+
+Education:
+- Ph.D., Liverpool John Moores University, UK
+
+Positions:
+- Associate Professor, Department of Information Technology, KMUTNB
+- Dean, Faculty of Industrial Technology and Management, KMUTNB (2012–2020)
+
+Research interests:
+- Agentic AI, AI Engineering, Network Technologies, Big Data Analytics, Cloud Computing,
+  Information Science, Natural Inspired Computing, Mobile Computing, HCI, Data Mining,
+  Network Forensic Analysis
+
+Selected publications:
+(See Google Scholar for the full list.)
+
+Contact:
+- ORCID: 0000-0002-4862-6462
+- Google Scholar: Anirach Mingkhwan
+- ResearchGate: A. Mingkhwan
+
+
+Replace this placeholder with the official CV PDF for public download.
