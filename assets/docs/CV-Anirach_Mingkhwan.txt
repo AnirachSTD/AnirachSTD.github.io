@@ -1,28 +1,96 @@
-Curriculum Vitae — Dr. Anirach Mingkhwan
+CURRICULUM VITAE — Dr. Anirach Mingkhwan
 
-This is a placeholder for the full CV. Replace this file with a PDF named CV-Anirach_Mingkhwan.pdf (or update the link in index.html) to provide a downloadable resume.
+PERSONAL INFORMATION
+Name: Dr. Anirach Mingkhwan
+Position: Associate Professor
+Department: Information Technology
+Faculty: Industrial Technology and Management
+Institution: King Mongkut's University of Technology North Bangkok (KMUTNB)
+Location: Bangkok, Thailand
 
-Suggested filename: CV-Anirach_Mingkhwan.pdf
+EDUCATION
+• Ph.D. in Computer Science, Liverpool John Moores University, UK
+• Master's Degree in Computer Science (details to be added)
+• Bachelor's Degree in Computer Science (details to be added)
 
-Education:
-- Ph.D., Liverpool John Moores University, UK
+ACademic APPOINTMENTS
+• Associate Professor, Department of Information Technology, KMUTNB (Present)
+• Dean, Faculty of Industrial Technology and Management, KMUTNB (2012–2020)
+• Associate Professor, Department of Information Technology, KMUTNB (2012–2020)
+• Assistant Professor, Department of Information Technology, KMUTNB (2006–2012)
 
-Positions:
-- Associate Professor, Department of Information Technology, KMUTNB
-- Dean, Faculty of Industrial Technology and Management, KMUTNB (2012–2020)
+RESEARCH INTERESTS
+• Agentic AI and AI Engineering
+• Network Technologies and Network Forensic Analysis
+• Big Data Analytics and Cloud Computing
+• Information Science and Data Mining
+• Natural Inspired Computing and Mobile Computing
+• Human-Computer Interaction (HCI)
+• Machine Learning and Artificial Intelligence Applications
 
-Research interests:
-- Agentic AI, AI Engineering, Network Technologies, Big Data Analytics, Cloud Computing,
-  Information Science, Natural Inspired Computing, Mobile Computing, HCI, Data Mining,
-  Network Forensic Analysis
+SELECTED PUBLICATIONS
 
-Selected publications:
-(See Google Scholar for the full list.)
+2024
+• Meesad, P., & Mingkhwan, A. (2024). Libraries in Transformation: Navigating to AI-Powered Libraries.
+• Ruamsuk, Y., Mingkhwan, A., & Unger, H. (2024). Enhancing Retrieval-Augmented Generation Systems by Text-Representing Centroid. In Proceedings of the 2024 8th International Conference on Natural Language Processing and Information Retrieval (pp. 1-6).
 
-Contact:
-- ORCID: 0000-0002-4862-6462
-- Google Scholar: Anirach Mingkhwan
-- ResearchGate: A. Mingkhwan
+2019
+• Daoruang, B., Sintanakul, K., & Mingkhwan, A. (2019). The study of learning achievement of learners classified VARK learning style in blended learning. In Proceedings of the 2019 3rd International Conference on Natural Language and Speech Processing (pp. 1-5).
 
+2015
+• Promrit, N., & Mingkhwan, A. (2015). Traffic flow classification and visualization for network forensic analysis. In 2015 IEEE 29th International Conference on Advanced Information Networking and Applications Workshops (pp. 257-262). IEEE.
 
-Replace this placeholder with the official CV PDF for public download.
+2013
+• Singto, P., & Mingkhwan, A. (2013). Semantic searching it careers concepts based on ontology. Journal of Advanced Management Science, 1(1), 102-106.
+
+2008
+• Soiraya, B., Mingkhwan, A., & Haruechaiyasak, C. (2008). An analysis of visual and presentation factors influencing the design of E-commerce web sites. In 2008 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (Vol. 3, pp. 469-472). IEEE.
+
+2006
+• Mingkhwan, A., Fergus, P., Abuelma'atti, O., Merabti, M., & Askwith, B. (2006). An intelligent security framework for ubiquitous services in a home environment. Multimedia Tools and Applications, 29(3), 257-284.
+
+CURRENT RESEARCH PROJECTS
+• Natural Inspired Computing: An ongoing project exploring the application of nature-inspired algorithms to solve complex computational problems.
+• AI-Powered Libraries: Research on transforming traditional libraries into AI-powered knowledge management systems.
+• Retrieval-Augmented Generation Systems: Development of enhanced text representation methods for improved information retrieval.
+
+TEACHING EXPERIENCE
+Courses taught at KMUTNB:
+• Artificial Intelligence and Machine Learning
+• Computer Networks and Security
+• Big Data Analytics
+• Cloud Computing
+• Human-Computer Interaction
+• Data Mining and Knowledge Discovery
+• Network Forensic Analysis
+• Mobile Computing
+
+ACademic SERVICE
+• Dean, Faculty of Industrial Technology and Management, KMUTNB (2012–2020)
+• Member of various university committees and academic boards
+• Reviewer for international conferences and journals
+• Advisor for graduate student research projects
+
+PROFESSIONAL ACTIVITIES
+• Keynote Speaker: Invited at academic conferences including NLPIR 2025
+• Author of books and research papers
+• Developer of a Thai LaTeX book template
+• Academic Leadership: Dean, Faculty of Industrial Technology and Management, KMUTNB (2012–2020)
+
+AWARDS AND HONORS
+• (List of awards and honors to be added)
+
+PROFESSIONAL MEMBERSHIPS
+• IEEE (Institute of Electrical and Electronics Engineers)
+• ACM (Association for Computing Machinery)
+• Thai Computing Society
+
+CONTACT INFORMATION
+• Email: anirach.m@fitm.kmutnb.ac.th
+• ORCID: 0000-0002-4862-6462
+• Google Scholar: Anirach Mingkhwan
+• ResearchGate: A. Mingkhwan
+• Department: Department of Information Technology, KMUTNB
+• Address: Faculty of Industrial Technology and Management, King Mongkut's University of Technology North Bangkok, 1518 Pracharat 1 Road, Bangsue, Bangkok 10800, Thailand
+
+Last Updated: 2024
